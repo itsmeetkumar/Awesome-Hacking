@@ -30,6 +30,7 @@ Repository | Description
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Reversing](https://github.com/tylerhalfpop/awesome-reversing) 						| List of awesome reverse engineering resources
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
+[Scanners-Box](https://github.com/We5ter/Scanners-Box)  |  The toolbox of open source scanners
 [SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 [Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
